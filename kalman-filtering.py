@@ -10,8 +10,9 @@
 
 # by Andrew D. Straw
 
+
 import numpy as np
-import pylab as plb
+import pylab as plt
 
 # intial parameters
 n_iter = 100
@@ -44,18 +45,19 @@ for k in range(1,n_iter):
     xhat[k] = xhatminus[k]+K[k]*(z[k]-xhatminus[k])
     P[k] = (1-K[k])*Pminus[k]
 
-plb.figure()
-plb.plot(z,'k+',label='noisy measurements')
-plb.plot(xhat,'b-',label='a posteri estimate')
-plb.axhline(x,color='g',label='truth value')
-plb.legend()
-plb.xlabel('Iteration')
-plb.ylabel('Voltage')
+plt.figure()
+plt.plot(z,'k+',label='noisy measurements')
+plt.plot(xhat,'b-',label='a posteri estimate')
+plt.axhline(x,color='g',label='truth value')
+plt.legend()
+plt.xlabel('Iteration')
+plt.ylabel('Voltage')
 
-plb.figure()
+plt.figure()
 valid_iter = range(1,n_iter) # Pminus not valid at step 0
-plb.plot(valid_iter,Pminus[valid_iter],label='a priori error estimate')
-plb.xlabel('Iteration')
-plb.ylabel('$(Voltage)^2$')
-#plb.setp(plb.gca(),'ylim',[0,.01])
-plb.show()
+plt.plot(valid_iter,Pminus[valid_iter],label='a priori error estimate')
+plt.xlabel('Iteration')
+plt.ylabel('$(Voltage)^2$')
+#plt.setp(plt.gca(),'ylim',[0,.01])
+plt.show()
+
