@@ -1,3 +1,5 @@
+# Installing up Anaconda
+
 Motivation: Due to poor internet connection in certain regions, using integrated tools such as Anaconda is always painful, especially consider the hefty size of 600MB for its installer (much less to say about 3rd-party packages/modules). Most users might be frustrated. This instruction is written to solve this issue. The main idea behind the following approach: use a mirror site to accelerate the download process to enhance user experience and boost productivity.
 
 目标：由于国际出口带宽的瓶颈限制，下载和使用Anaconda是一件苦差事。安装文件本身就达到600MB，第三方包会更大。如果不用本文中提到的方法加速，一方面用户的等待时间会很长，另一方面一旦出错就会前功尽弃，导致用户或初学者很有挫折感。本指南就是通过TUNA的镜像来解决上述问题，从而提升用户体验和生产力。
@@ -26,14 +28,43 @@ Anaconda 是一个用于科学计算的“全家桶”，支持 Linux, Mac, Wind
 
         执行下列命令（注意，这期间有可能会中断或者提示，请留意相应的信息）
         ``` 
+        pip install pip -U
+
+        pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+
         conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
         conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
-        conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
         conda config --set show_channel_urls yes
+        
+        pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+        
+        pip install -i https://pypi.tuna.tsinghua.edu.cn/simple filterpy
 
-        conda install pytorch
-
-        pip install torchvision
+        
         ```
-1. Done. 完成
-    
+
+# Change the Jupyter start-up folder
+
+If you're using a Windows System, you might encouter difficulties in setting the default path for Jupyter Notebook. Current information available online is pretty scattered. Below there is a working solution tested by me. 
+
+1.  Add it to the global config file
+
+    1.  Open "Anaconda Prompt" and type `jupyter notebook --generate-config`
+
+    1.  Find the file in `C:\Users\username\.jupyter\jupyter_notebook_config.py`
+
+    1.  Change the line of `#c.NotebookApp.notebook_dir = ''` to `c.NotebookApp.notebook_dir = 'c:\yourworkbench\'`
+
+        1.  Remeber to remove the comment hashbang `#`
+
+1.  Then, change the shortcut of Jupyter Notebook
+
+    1.  go to `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Anaconda3 (64-bit)`, right-mouse-click the "Jupyter Notebook" shortcut icon and open "Properties" dialog
+
+    1.  In the Target field, remove `%USERPROFILE%`
+
+    1.  In the field of "Start in", type the same directory of `c:\yourworkbench\` as abovementioned.
+
+1.  Done!
+
+
