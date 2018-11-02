@@ -13,8 +13,7 @@ Anaconda 是一个用于科学计算的“全家桶”，支持 Linux, Mac, Wind
 
 1.  Download and install Anaconda from TUNA's mirror 从 TUNA 的镜像下载和安装 Anaconda
     1.  Visit 访问 https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
-    1.  Chosse the Anaconder version (preferrably the latest one), and pick up the version that matches your OS. 先选择Anaconda的版本（建议选择最新的，页面的最下方），并且选择与自己操作系统对应的
-        1.  As of writing this instruction, the latest version is 5.3, and I use 64-bit Windows, so I picked up 在写这篇指南时，最新的版本是5.3.0，并且我用64位Windows，所以我选了这个版本 (Anaconda3-5.3.0-Windows-x86_64.exe)[https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/Anaconda3-5.3.0-Windows-x86_64.exe]
+    1.  Chosse the Anaconder version (preferrably the latest one), and pick up the version that matches your OS. 先选择Anaconda的主版本（建议选择最新的，页面的最下方），并且选择与自己操作系统对应的编译副版本
     1.  Download and install it 下载安装之
 
 
@@ -46,7 +45,7 @@ Anaconda 是一个用于科学计算的“全家桶”，支持 Linux, Mac, Wind
 
     ```
 
-# Changing the start-up folder of Jupyter Notebook
+## Changing the start-up folder of Jupyter Notebook
 
 If you're using a Windows System, you might encouter difficulties in setting the default path for Jupyter Notebook. Current information available online is pretty scattered. Below there is a working solution tested by me. 
 
@@ -68,9 +67,9 @@ If you're using a Windows System, you might encouter difficulties in setting the
 
     1.  In the field of "Start in", type the same directory of `c:\yourworkbench\` as abovementioned.
 
-# Running the notebook server
+## Running the notebook server
 
-Once Jupyter is installed, open the "jupyter notebook" from the Windows Start Menu
+Once Jupyter Notebook is installed, open the "jupyter notebook" from the Windows Start Menu
 
 
 
