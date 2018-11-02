@@ -6,7 +6,7 @@ Motivation: Due to poor internet connection in certain regions, using integrated
 
 目标：由于国际出口带宽的瓶颈限制，下载和使用Anaconda是一件苦差事。安装文件本身就达到600MB，第三方包会更大。如果不用本文中提到的方法加速，一方面用户的等待时间会很长，另一方面一旦出错就会前功尽弃，导致用户或初学者很有挫折感。本指南就是通过TUNA的镜像来解决上述问题，从而提升用户体验和生产力。
 
-By (its website)[https://www.anaconda.com/],  "Anaconda is The Most Popular Python Data Science Platform". 
+By [its website](https://www.anaconda.com/),  "Anaconda is The Most Popular Python Data Science Platform". 
 
 __说明：__ *Anaconda 是一个用于科学计算的“全家桶”，支持 Linux, Mac, Windows, 包含了Python，包含了Jupyter Notebook，更集成了众多流行的科学计算、数据分析的包。*
 
@@ -33,6 +33,8 @@ __说明：__ *Anaconda 的 `conda` 命令是一个类似于 `pip` 的第三方�
 
     pip install --upgrade pip
     # Alternatively, use `python -m pip install --upgrade pip`
+    
+    pip install filterpy
     
     conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
     conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
