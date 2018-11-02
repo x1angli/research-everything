@@ -16,7 +16,7 @@ Anaconda 是一个用于科学计算的“全家桶”，支持 Linux, Mac, Wind
     1.  Download and install it 下载安装之
 
 
-1.  Setting up channels, and install PyTorch 设置相应的“通道”，下载和安装PyTorch
+1.  Setting up Anaconda设置相应的“通道”
 
     说明：Anaconda 的 `conda` 命令是一个类似于 `pip` 的第三方包管理器，里面有“channel（通道）”这种概念，所谓的通道，就是一组包名和相应的来源网址。Anaconda在刚安装完成时，默认是从官方网站下载，这样会导致速度比较慢。我们可以将其设置为TUNA的通道，这样就会快很多。
 
@@ -31,19 +31,20 @@ Anaconda 是一个用于科学计算的“全家桶”，支持 Linux, Mac, Wind
         pip install pip -U
 
         pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+        
+        pip install -i https://pypi.tuna.tsinghua.edu.cn/simple filterpy
 
         conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
         conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
         conda config --set show_channel_urls yes
         
-        pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+        conda update conda
         
-        pip install -i https://pypi.tuna.tsinghua.edu.cn/simple filterpy
-
+        conda update jupyter numpy sympy scipy matplotlib
         
         ```
 
-# Change the Jupyter start-up folder
+# Changing the Jupyter start-up folder
 
 If you're using a Windows System, you might encouter difficulties in setting the default path for Jupyter Notebook. Current information available online is pretty scattered. Below there is a working solution tested by me. 
 
@@ -65,6 +66,9 @@ If you're using a Windows System, you might encouter difficulties in setting the
 
     1.  In the field of "Start in", type the same directory of `c:\yourworkbench\` as abovementioned.
 
-1.  Done!
+# Running the notebook server
+
+Once Jupyter is installed, open the "jupyter notebook" from the Windows Start Menu
+
 
 
