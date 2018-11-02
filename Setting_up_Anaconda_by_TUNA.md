@@ -29,17 +29,18 @@ __说明：__ *Anaconda 的 `conda` 命令是一个类似于 `pip` 的第三方�
 
     执行下列命令（注意，这期间有可能会中断或者提示，请留意相应的信息）
     ``` cli
-    pip install pip -U
-
     pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 
-    pip install -i https://pypi.tuna.tsinghua.edu.cn/simple filterpy
-
+    pip install --upgrade pip
+    # Alternatively, use `python -m pip install --upgrade pip`
+    
     conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
     conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
     conda config --set show_channel_urls yes
 
     conda update conda
+    
+    conda update anaconda
 
     conda update jupyter numpy sympy scipy matplotlib
 
