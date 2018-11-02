@@ -56,9 +56,9 @@ If you're using a Windows System, you might encouter difficulties in setting the
 
     1.  Find the file in `C:\Users\username\.jupyter\jupyter_notebook_config.py`
 
-    1.  Change the line of `#c.NotebookApp.notebook_dir = ''` to `c.NotebookApp.notebook_dir = 'c:\yourworkbench\'`
+    1.  Change the line of `#c.NotebookApp.notebook_dir = ''` to `c.NotebookApp.notebook_dir = 'c:\\your\\workbench\\'`
 
-        1.  Remeber to remove the comment hashbang `#`
+        1.  Remeber to remove the comment hashbang `#`, and the double backslash
 
 1.  Then, change the shortcut of Jupyter Notebook
 
@@ -66,7 +66,7 @@ If you're using a Windows System, you might encouter difficulties in setting the
 
     1.  In the Target field, remove `%USERPROFILE%`
 
-    1.  In the field of "Start in", type the same directory of `c:\yourworkbench\` as abovementioned.
+    1.  In the field of "Start in", type the same directory of `c:\your\workbench\` as abovementioned.
 
 ## Running the notebook server
 
