@@ -8,7 +8,7 @@ Motivation: Due to poor internet connection in certain regions, using integrated
 
 By (its website)[https://www.anaconda.com/],  "Anaconda is The Most Popular Python Data Science Platform". 
 
-Anaconda 是一个用于科学计算的“全家桶”，支持 Linux, Mac, Windows, 包含了Python，包含了Jupyter Notebook，更集成了众多流行的科学计算、数据分析的包。
+__说明：__ *Anaconda 是一个用于科学计算的“全家桶”，支持 Linux, Mac, Windows, 包含了Python，包含了Jupyter Notebook，更集成了众多流行的科学计算、数据分析的包。*
 
 
 1.  Download and install Anaconda from TUNA's mirror 从 TUNA 的镜像下载和安装 Anaconda
@@ -19,7 +19,7 @@ Anaconda 是一个用于科学计算的“全家桶”，支持 Linux, Mac, Wind
 
 ## Configuring Anaconda 配置Anaconda 
 
-说明：Anaconda 的 `conda` 命令是一个类似于 `pip` 的第三方包管理器，里面有“channel（通道）”这种概念，所谓的通道，就是一组包名和相应的来源网址。Anaconda在刚安装完成时，默认是从官方网站下载，这样会导致速度比较慢。我们可以将其设置为TUNA的通道，这样就会快很多。
+__说明：__ *Anaconda 的 `conda` 命令是一个类似于 `pip` 的第三方包管理器，里面有“channel（通道）”这种概念，所谓的通道，就是一组包名和相应的来源网址。Anaconda在刚安装完成时，默认是从官方网站下载，这样会导致速度比较慢。我们可以将其设置为TUNA的通道，这样就会快很多。*
 
 1.  Start menu, locate and right-mouse-click “Anaconda Prompt” -> “Run as Administrator” 
 
