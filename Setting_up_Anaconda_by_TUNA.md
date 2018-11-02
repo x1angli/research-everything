@@ -1,4 +1,6 @@
-# Installing up Anaconda
+# Installation and Software Requirements
+
+## Installing Anaconda and Jupyter Notebook
 
 Motivation: Due to poor internet connection in certain regions, using integrated tools such as Anaconda is always painful, especially consider the hefty size of 600MB for its installer (much less to say about 3rd-party packages/modules). Most users might be frustrated. This instruction is written to solve this issue. The main idea behind the following approach: use a mirror site to accelerate the download process to enhance user experience and boost productivity.
 
@@ -16,35 +18,35 @@ Anaconda 是一个用于科学计算的“全家桶”，支持 Linux, Mac, Wind
     1.  Download and install it 下载安装之
 
 
-1.  Setting up Anaconda设置相应的“通道”
+## Configuring Anaconda 配置Anaconda 
 
-    说明：Anaconda 的 `conda` 命令是一个类似于 `pip` 的第三方包管理器，里面有“channel（通道）”这种概念，所谓的通道，就是一组包名和相应的来源网址。Anaconda在刚安装完成时，默认是从官方网站下载，这样会导致速度比较慢。我们可以将其设置为TUNA的通道，这样就会快很多。
+说明：Anaconda 的 `conda` 命令是一个类似于 `pip` 的第三方包管理器，里面有“channel（通道）”这种概念，所谓的通道，就是一组包名和相应的来源网址。Anaconda在刚安装完成时，默认是从官方网站下载，这样会导致速度比较慢。我们可以将其设置为TUNA的通道，这样就会快很多。
 
-    1.  Start menu, locate and right-mouse-click “Anaconda Prompt” -> “Run as Administrator” 
+1.  Start menu, locate and right-mouse-click “Anaconda Prompt” -> “Run as Administrator” 
 
-        开始菜单，找到“Anaconda Prompt”并右键->“以管理员运行”
+    开始菜单，找到“Anaconda Prompt”并右键->“以管理员运行”
 
-    1.  Run the following commands
+1.  Run the following commands
 
-        执行下列命令（注意，这期间有可能会中断或者提示，请留意相应的信息）
-        ``` 
-        pip install pip -U
+    执行下列命令（注意，这期间有可能会中断或者提示，请留意相应的信息）
+    ``` cli
+    pip install pip -U
 
-        pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
-        
-        pip install -i https://pypi.tuna.tsinghua.edu.cn/simple filterpy
+    pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 
-        conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
-        conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
-        conda config --set show_channel_urls yes
-        
-        conda update conda
-        
-        conda update jupyter numpy sympy scipy matplotlib
-        
-        ```
+    pip install -i https://pypi.tuna.tsinghua.edu.cn/simple filterpy
 
-# Changing the Jupyter start-up folder
+    conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+    conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+    conda config --set show_channel_urls yes
+
+    conda update conda
+
+    conda update jupyter numpy sympy scipy matplotlib
+
+    ```
+
+# Changing the start-up folder of Jupyter Notebook
 
 If you're using a Windows System, you might encouter difficulties in setting the default path for Jupyter Notebook. Current information available online is pretty scattered. Below there is a working solution tested by me. 
 
