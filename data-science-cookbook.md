@@ -1,3 +1,5 @@
+This article is written to prepare necessary environment for data science on your machine. It's a "cookbook"
+
 # Installation and Software Requirements
 
 ## Installing Anaconda and Jupyter Notebook
