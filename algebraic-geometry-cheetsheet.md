@@ -1,3 +1,5 @@
+# Taxonomy Chart
+![algebraic geometry taxonomy chart](assets/algebraic-geometry-taxonomy.svg)
 
 # Definitions 
 
