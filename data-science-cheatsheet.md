@@ -16,16 +16,16 @@ Preparation code:
 * Dot Multiplication
     The following lines of code will yield the same mathmatical outcome (but not necessarily the exact same outcome, since programatically they same outcome might be expressed in different Python classes).
 
-        product = np.matmul(m1, m2)
-        product = m1.dot(m2)
-        product = mm1 * mm2                                 # Note: the type of "product" is np.matrix
-        product = m1 @ m2                                   # Note: the "@" operator is available in Python 3.5+ only.
-        product = mm1 @ mm2                                 # Note: the type of "product" is np.matrix, and the "@" operator is available in Python 3.5+ only.
+      product = np.matmul(m1, m2)
+      product = m1.dot(m2)
+      product = mm1 * mm2                                 # Note: the type of "product" is np.matrix
+      product = m1 @ m2                                   # Note: the "@" operator is available in Python 3.5+ only.
+      product = mm1 @ mm2                                 # Note: the type of "product" is np.matrix, and the "@" operator is available in Python 3.5+ only.
     
 * Element-wise Multiplication
     The following lines of code will yield the same mathmatical outcome.
 
-        product = m1 * m2
+      product = m1 * m2
 
 
 ## 100 NumPy Exercises
