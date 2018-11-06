@@ -26,8 +26,9 @@ Preparation code:
 
       product = m1 * m2
 
+## Useful links
 
-## 100 NumPy Exercises
+### 100 NumPy Exercises
 https://labex.io/lab/403
 
 Despite its name of "exercises", it's essentially a cheatsheet containing 100 most-frequent usage. 
