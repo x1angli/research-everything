@@ -12,6 +12,14 @@
 **Payoffs**: how much?
 - Do they care about some profit? Do they care about other players?...
 
+* __Simultaneous games__ (a.k.a. Strategy games) : games where both players move simultaneously, or if they do not move simultaneously, the later players are unaware of the earlier players' actions (making them effectively simultaneous).
+* __Sequential games__: games where later players have some knowledge about earlierr actions.
+* __Perfect information games__: games in which all players know the moves previously made by all other players.
+* __Complete information games__: games in which all players know the strategies and payoffs available to the other players.
+
+** Cournot equilibrium **: The Cournot model of oligopoly assumes that rival firms produce a homogenous product, and each attempts to maximize profits by choosing how much to produce. All firms choose output (quantity) simultaneously. The basic Cournot assumption is that each firm chooses its quantity, taking as given the quantity of its rivals. The resulting equilibrium is a Nash equilibrium in quantities, called a Cournot (Nash) equilibrium.
+
+
 ### Normal form 
 
 - Lists what payoffs players get as a function of their actions. 
@@ -24,10 +32,7 @@
 | **Stay silent** | -1,-1                 | -3,0                |
 | **Betray**      | 0,-3                  | **-2,-2**           |
 
-* __Simultaneous games__ (a.k.a. Strategy games) : games where both players move simultaneously, or if they do not move simultaneously, the later players are unaware of the earlier players' actions (making them effectively simultaneous).
-* __Sequential games__: games where later players have some knowledge about earlierr actions.
-* __Perfect information games__: games in which all players know the moves previously made by all other players.
-* __Complete information games__: games in which all players know the strategies and payoffs available to the other players.
+
 
 
 ## Terminologies
