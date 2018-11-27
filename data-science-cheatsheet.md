@@ -28,6 +28,11 @@ Preparation code:
 
 ## Useful links
 
+### PyTorch Tutorials
+* Link: https://pytorch.org/tutorials/
+* Source Code Repo: https://github.com/pytorch/tutorials
+It uses sphinx-gallery's notebook styled examples to create the tutorials
+
 ### Mindmap: Data Science for Managers ###
 * Description: https://activewizards.com/blog/intro-to-data-science-for-managers-mindmap/?utm_source=reddit&utm_medium=programming&utm_campaign=ds_mindmap
 * Source File: https://coggle.it/diagram/WypjBWlbpEHkyhcg/t/data-science-for-managers/c0083ef2d003b849535618df0b84e6dad73e301910c45e7eab5b72ff12f016e0
