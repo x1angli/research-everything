@@ -12,7 +12,7 @@ Preparation code:
     m2 = m1.copy()
     mm1, mm2 = np.matrix(m1), np.matrix(m2)       # Note: the type of m1 differs from mm1! m1 is of "np.array", while m2 is of "np.matrix" 
 
-* Dot Multiplication
+### Dot Multiplication
 
 __TL;DR__: In short, the asterisk `*` operand distiguishes between np.array and np.array: it performs element-wise multiplication for np.array, while dot multiplication for matrix. However, an at `@` operand guarantees dot multiplication.
 <html><ul>
@@ -26,7 +26,7 @@ __TL;DR__: In short, the asterisk `*` operand distiguishes between np.array and 
       product = m1 @ m2                                   # Note: the types of product, m1, and m2 are np.array 
       product = mm1 @ mm2                                 # Note: the types of product, m1, and m2 are np.matrix
     
-* Element-wise Multiplication
+### Element-wise Multiplication
 
       product = m1 * m2                                   # Note: the types of product, m1, and m2 are np.array
 
