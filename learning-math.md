@@ -1,3 +1,16 @@
+
+## Linear algebra online courses
+* [Coursera](https://www.coursera.org/learn/linear-algebra-machine-learning)
+* [MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
+
+## Linear algebra books
+
+### Linear Algebra and Its Applications
+<sub> by David C Lay, Judi J. McDonald, and Steven R Lay</sub>
+
+An undergraduate-level text which challenges the student throughout with the development of topics in linear algebra. A study guide, instrutor's edition and instructor's technology resource manuals are also available. Google Books
+
+
 ### The Matrix Cookbook
 
 * [Local link](./attachments/matrixcookbook.pdf)
