@@ -16,9 +16,10 @@ Preparation code:
 
 __TL;DR__: In short, the asterisk `*` operand distiguishes between np.array and np.array: it performs element-wise multiplication for np.array, while dot multiplication for matrix. However, an at `@` operand guarantees dot multiplication.
 <html><ul>
-<sup><li> Note #1: The following lines of code will yield the same mathmatical outcome (but not necessarily the exact same outcome, since programatically they same outcome might be expressed in different Python classes). </sup>
-<sup><li> Note #2: the `@` operator is available in Python 3.5+ only.</sup>
+    <li><sub> Note #1: The following lines of code will yield the same mathmatical outcome (but not necessarily the exact same outcome, since programatically they same outcome might be expressed in different Python classes). </sub></li>
+    <li><sub> Note #2: the `@` operator is available in Python 3.5+ only.</sub></li>
 </ul></html>
+
       product = np.matmul(m1, m2)
       product = m1.dot(m2)
       product = mm1 * mm2                                 # Note: the types of product, m1, and m2 are np.matrix
