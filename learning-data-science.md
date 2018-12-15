@@ -29,7 +29,7 @@ It is divided into _basic part_ and _advanced part_, each with 50 exercises. The
 #### PyTorch Tutorials
 * Link: https://pytorch.org/tutorials/
 * Source Code Repo: https://github.com/pytorch/tutorials
-It uses sphinx-gallery's notebook styled examples to create the tutorials
+<sub>It uses sphinx-gallery's notebook styled examples to create the tutorials</sub>
 
 
 
