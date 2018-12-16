@@ -32,4 +32,12 @@ It is divided into _basic part_ and _advanced part_, each with 50 exercises. The
 <sub>It uses sphinx-gallery's notebook styled examples to create the tutorials</sub>
 
 
+## DataFrame Visualization
 
+#### Pandas 
+
+....
+
+#### Vaex: 
+
+Out of Core Dataframes for Python and Fast Visualization
