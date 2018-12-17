@@ -31,6 +31,11 @@ It is divided into _basic part_ and _advanced part_, each with 50 exercises. The
 * Source Code Repo: https://github.com/pytorch/tutorials
 <sub>It uses sphinx-gallery's notebook styled examples to create the tutorials</sub>
 
+#### Implementing an Image Classifier with PyTorch
+<sub>by Jose Nieto</sub>
+* Part 1: https://medium.com/udacity/implementing-an-image-classifier-with-pytorch-part-1-cf5444b8e9c9
+* Part 2: https://medium.com/udacity/implementing-an-image-classifier-with-pytorch-part-2-ae4dd7b2f48
+
 
 ## DataFrame Visualization
 
@@ -41,3 +46,5 @@ It is divided into _basic part_ and _advanced part_, each with 50 exercises. The
 #### Vaex: 
 
 Out of Core Dataframes for Python and Fast Visualization
+
+
