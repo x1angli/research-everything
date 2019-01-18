@@ -3,6 +3,7 @@
 #### PracticalAI
 * Description: A set of well-written code for Machine Learning and Data Science. It includes Numpy, Pandas, Random Forests, RNN, CNN, Computer Vision, etc. It's special in that its codes are well organized per Object-Oriented norm that can be directly used out of the box.
 * Link: https://github.com/GokuMohandas/practicalAI
+* Chinese Version: https://github.com/MLEveryday/practicalAI-cn
 ![Contents: PracticalAI](./practical-ai.png)
 
 
@@ -10,7 +11,18 @@
 100 Days of Machine Learning Coding.
 * Link: https://github.com/Avik-Jain/100-Days-Of-ML-Code
 * Chinese Version: https://github.com/MLEveryday/100-Days-Of-ML-Code
-* Its datasets: https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master/datasets
+* Datasets used: https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master/datasets
+
+#### 60_Days_RL_Challenge / 强化学习60天
+Learn Deep Reinforcement Learning in Depth in 60 days
+* Link: https://github.com/andri27-ts/60_Days_RL_Challenge
+* Chinese Version: https://github.com/MLEveryday/60_Days_RL_Challenge
+
+#### Mindmap: Machine Learning Mindmap / Cheatsheet
+A Mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
+* Link:https://github.com/dformoso/machine-learning-mindmap
+* Download the PDF here: https://github.com/dformoso/machine-learning-mindmap/blob/master/Machine%20Learning.pdf
+* Same, but with a white background: https://github.com/dformoso/machine-learning-mindmap/blob/master/Machine%20Learning%20-%20White%20BG.pdf
 
 #### Mindmap: Data Science for Managers 
 * Description: https://activewizards.com/blog/intro-to-data-science-for-managers-mindmap/?utm_source=reddit&utm_medium=programming&utm_campaign=ds_mindmap
