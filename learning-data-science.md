@@ -6,6 +6,12 @@
 ![Contents: PracticalAI](./practical-ai.png)
 
 
+#### 100-Days-Of-ML-Code
+100 Days of Machine Learning Coding.
+* Link: https://github.com/Avik-Jain/100-Days-Of-ML-Code
+* Chinese Version: https://github.com/MLEveryday/100-Days-Of-ML-Code
+* Its datasets: https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master/datasets
+
 #### Mindmap: Data Science for Managers 
 * Description: https://activewizards.com/blog/intro-to-data-science-for-managers-mindmap/?utm_source=reddit&utm_medium=programming&utm_campaign=ds_mindmap
 * Source File: https://coggle.it/diagram/WypjBWlbpEHkyhcg/t/data-science-for-managers/c0083ef2d003b849535618df0b84e6dad73e301910c45e7eab5b72ff12f016e0
