@@ -4,7 +4,7 @@
 * Description: A set of well-written code for Machine Learning and Data Science. It includes Numpy, Pandas, Random Forests, RNN, CNN, Computer Vision, etc. It's special in that its codes are well organized per Object-Oriented norm that can be directly used out of the box.
 * Link: https://github.com/GokuMohandas/practicalAI
 * Chinese Version: https://github.com/MLEveryday/practicalAI-cn
-![Contents: PracticalAI](./practical-ai.png)
+![Contents: PracticalAI](assets/practical-ai.png)
 
 
 #### 100-Days-Of-ML-Code
@@ -30,7 +30,7 @@ A Mindmap summarising Machine Learning concepts, from Data Analysis to Deep Lear
 
 Data science is incredibly broad and complex discipline, an interception of computer science, math and statistics, and a domain of knowledge requiring the understanding the source of data: medical, financial, web, and other domains. The mindmap below contains a condensed introduction to the key data science concepts and techniques that have revolutionized the business landscape and became essential for making beneficial data-driven decisions. We are confident that it will be useful and informative for both the data science managers and for those facing this rapidly developing field as a client or user.
 
-![Mindmap: data science for managers](./data-science-for-managers.png)
+![Mindmap: data science for managers](assets/data-science-for-managers.png)
 
 ## Numpy 
 **NumPy** is an extension library for Python language, supporting operations of a large number of high-dimensional arrays and matrices. In addition, it also provides a large number of mathematical function libraries for array operations. Machine learning involves a lot of transformations and operations on arrays, which makes NumPy one of the essential tools.
