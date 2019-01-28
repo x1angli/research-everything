@@ -26,3 +26,12 @@ A collection of bullet points that can walk git you out of all the frustrating s
 * [Local link](./attachments/matrixcookbook.pdf)
 * [Another link](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)  
 <sub> Note: the link ~http://matrixcookbook.com~ on the cover page is dead. </sub>
+
+
+## Optimization 
+
+#### Algorithms for Optimization
+<sub>By Mykel J. Kochenderfer and Tim A. Wheeler</sub>
+
+It's a full-length college-level academic textbook based based on material from Prof. Kochenderfer's Engineering Design Optimization course at Stanford.This book offers a comprehensive introduction to optimization with a focus on practical algorithms. It is filled with easy-to-understand Julia implementations of all algorithms. 
+* [Website](http://mitpress.mit.edu/books/algorithms-optimization)
