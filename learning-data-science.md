@@ -32,7 +32,7 @@ Data science is incredibly broad and complex discipline, an interception of comp
 
 ![Mindmap: data science for managers](assets/data-science-for-managers.png)
 
-## Numpy 
+### Numpy 
 **NumPy** is an extension library for Python language, supporting operations of a large number of high-dimensional arrays and matrices. In addition, it also provides a large number of mathematical function libraries for array operations. Machine learning involves a lot of transformations and operations on arrays, which makes NumPy one of the essential tools.
 
 #### 100 NumPy Exercises
@@ -42,7 +42,7 @@ Despite its name of "exercises", it's essentially a cheatsheet containing 100 mo
 
 It is divided into _basic part_ and _advanced part_, each with 50 exercises. The basic part of the exercise helps you familiarize yourself with the use of NumPy's common methods and the advanced part focuses on the combined application of the NumPy methods. 
 
-## PyTorch
+### PyTorch
 
 #### PyTorch Tutorials
 * Link: https://pytorch.org/tutorials/
@@ -55,7 +55,7 @@ It is divided into _basic part_ and _advanced part_, each with 50 exercises. The
 * Part 2: https://medium.com/udacity/implementing-an-image-classifier-with-pytorch-part-2-ae4dd7b2f48
 
 
-## DataFrame Visualization
+### DataFrame Visualization
 
 #### Pandas 
 
@@ -66,3 +66,26 @@ It is divided into _basic part_ and _advanced part_, each with 50 exercises. The
 Out of Core Dataframes for Python and Fast Visualization
 
 
+### Speech Recognition
+
+#### Project DeepSpeech
+* made by Mozilla
+* available in [pip](https://pypi.org/project/deepspeech/) and [npm](https://www.npmjs.com/~deepspeech)
+* Github: https://github.com/mozilla/DeepSpeech
+
+#### Kaldi
+* written in C++, and wrapped by Bash and Python
+* http://kaldi-asr.org/doc/
+* https://github.com/kaldi-asr/kaldi
+
+#### Wav2Letter++
+* made by Facebook Research
+* https://github.com/facebookresearch/wav2letter
+* https://arxiv.org/abs/1812.07625
+
+#### DeepSpeech2
+* https://github.com/PaddlePaddle/DeepSpeech
+
+#### Julius
+* supports both English and Japanese languages only
+* https://github.com/julius-speech/julius
