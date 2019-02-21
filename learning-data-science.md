@@ -1,11 +1,14 @@
 # All
 
+#### Homemade Machine Learning
+Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
+* Link: https://github.com/trekhleb/homemade-machine-learning
+
 #### PracticalAI
-* Description: A set of well-written code for Machine Learning and Data Science. It includes Numpy, Pandas, Random Forests, RNN, CNN, Computer Vision, etc. It's special in that its codes are well organized per Object-Oriented norm that can be directly used out of the box.
+A set of well-written code for Machine Learning and Data Science. It includes Numpy, Pandas, Random Forests, RNN, CNN, Computer Vision, etc. It's special in that its codes are well organized per Object-Oriented norm that can be directly used out of the box.
 * Link: https://github.com/GokuMohandas/practicalAI
 * Chinese Version: https://github.com/MLEveryday/practicalAI-cn
 ![Contents: PracticalAI](assets/practical-ai.png)
-
 
 #### 100-Days-Of-ML-Code
 100 Days of Machine Learning Coding.
