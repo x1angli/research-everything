@@ -1,5 +1,9 @@
 # All
 
+#### 算法/深度学习/NLP面试题库
+By HUA Yang @ 哈工大（深圳）
+* Link: https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
+
 #### Homemade Machine Learning
 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 * Link: https://github.com/trekhleb/homemade-machine-learning
