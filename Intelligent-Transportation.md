@@ -16,3 +16,9 @@ https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/
 * http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures
 * （中文翻译）：https://blog.csdn.net/u010720661/article/details/63253509
 
+## Path Finding / Routing 寻径问题
+
+#### Path Finding
+A comprehensive path-finding library in javascript.
+https://github.com/qiao/PathFinding.js
+http://qiao.github.io/PathFinding.js/visual/
