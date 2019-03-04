@@ -39,6 +39,12 @@ Data science is incredibly broad and complex discipline, an interception of comp
 
 ![Mindmap: data science for managers](assets/data-science-for-managers.png)
 
+## Python
+
+#### Python Data Science Handbook
+https://github.com/jakevdp/PythonDataScienceHandbook
+Python Data Science Handbook: full text in Jupyter Notebooks. The book introduces the core libraries essential for working with data in Python: particularly IPython, NumPy, Pandas, Matplotlib, Scikit-Learn, and related packages.
+
 ### Numpy 
 **NumPy** is an extension library for Python language, supporting operations of a large number of high-dimensional arrays and matrices. In addition, it also provides a large number of mathematical function libraries for array operations. Machine learning involves a lot of transformations and operations on arrays, which makes NumPy one of the essential tools.
 
