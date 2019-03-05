@@ -7,6 +7,13 @@ This is the playground for the Intelligent Transportation &amp; Logistics System
 * Video Tutorial: https://www.youtube.com/watch?v=ydSXgBZ1ybk
 * an UI for it in Tkinter: https://github.com/AdityaPai2398/UI-For-Vehicle-and-Pedestrian-Detection-/tree/master/Vehicle%20and%20pedestrain%20detection
 
+#### Autonomous Visualization System (AVS)
+Autonomous Visualization System (AVS) is a fast, powerful, web-based 3D visualization toolkit for building applications from your autonomous and robotics data. AVS is a new standard for describing and visualizing autonomous vehicle perception, motion, and planning data, offering a powerful web-based toolkit to build applications for exploring, interacting and, most critically, making important development decisions with that data.
+* https://avs.auto
+* https://avs.auto/demo/index.html
+* https://avs.auto/#/streetscape.gl/overview/introduction
+* https://avs.auto/#/xviz/overview/introduction
+
 ## Karlman Filter
 
 #### Roger Labbe的卡尔曼滤波Python教程
