@@ -29,3 +29,10 @@ https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/
 A comprehensive path-finding library in javascript.
 https://github.com/qiao/PathFinding.js
 http://qiao.github.io/PathFinding.js/visual/
+
+
+## SLAM
+
+#### Recent SLAM research
+精选paper包括纯视觉SLAM，三维重建，基础数学工具，导航路径规划，深度学习SLAM，激光与视觉融合等类别
+https://github.com/YiChenCityU/Recent_SLAM_Research
