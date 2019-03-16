@@ -1,3 +1,11 @@
+## Machine Learning Related 
+
+#### Mathematics for Machine Learning
+* https://mml-book.com/
+* https://mml-book.github.io/
+* [PDF download](https://mml-book.github.io/book/mml-book.pdf)
+* [Companion Materials](https://github.com/mml-book/mml-book.github.io)
+
 
 ## Linear algebra online courses
 * [Coursera](https://www.coursera.org/learn/linear-algebra-machine-learning)
