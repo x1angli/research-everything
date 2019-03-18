@@ -25,6 +25,9 @@ Learn Deep Reinforcement Learning in Depth in 60 days
 * Link: https://github.com/andri27-ts/60_Days_RL_Challenge
 * Chinese Version: https://github.com/MLEveryday/60_Days_RL_Challenge
 
+#### DeepLearning-500-questions / 深度学习500问
+* https://github.com/scutan90/DeepLearning-500-questions
+
 #### Mindmap: Machine Learning Mindmap / Cheatsheet
 A Mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 * Link:https://github.com/dformoso/machine-learning-mindmap
