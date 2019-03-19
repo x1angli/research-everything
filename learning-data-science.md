@@ -58,6 +58,15 @@ Despite its name of "exercises", it's essentially a cheatsheet containing 100 mo
 
 It is divided into _basic part_ and _advanced part_, each with 50 exercises. The basic part of the exercise helps you familiarize yourself with the use of NumPy's common methods and the advanced part focuses on the combined application of the NumPy methods. 
 
+### Pandas
+#### 10 Minutes to pandas
+This is a short introduction to pandas, geared mainly for new users. (also, as a cheatsheet to experienced users) 
+http://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
+
+#### Pandas cookbook
+This is a repository for short and sweet examples and links for useful pandas recipes
+http://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html
+
 ### PyTorch
 
 #### PyTorch Tutorials
@@ -73,7 +82,6 @@ It is divided into _basic part_ and _advanced part_, each with 50 exercises. The
 
 ### DataFrame Visualization
 
-#### Pandas 
 
 ....
 
