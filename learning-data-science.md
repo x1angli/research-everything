@@ -67,6 +67,15 @@ http://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
 This is a repository for short and sweet examples and links for useful pandas recipes
 http://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html
 
+#### cheatsheet
+http://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+
+#### 19 Essential Snippets in Pandas
+https://jeffdelaney.me/blog/useful-snippets-in-pandas/
+
+#### Pandas Tutorial: DataFrames in Python
+https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
+
 ### PyTorch
 
 #### PyTorch Tutorials
