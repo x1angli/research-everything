@@ -14,6 +14,10 @@ Autonomous Visualization System (AVS) is a fast, powerful, web-based 3D visualiz
 * https://avs.auto/#/streetscape.gl/overview/introduction
 * https://avs.auto/#/xviz/overview/introduction
 
+#### Baidu's Apollo
+An open autonomous driving platform developed by Baidu.
+https://github.com/ApolloAuto/apollo
+
 #### 人工智能+无人机（AI+UAV）综合课程
 * https://github.com/qfzn/AI_UAV
    * [组合导航资料](https://github.com/qfzn/AI_UAV/tree/master/%E5%85%B6%E4%BB%96%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99/%E7%BB%84%E5%90%88%E5%AF%BC%E8%88%AA%E8%B5%84%E6%96%99_%E5%AE%9E%E9%AA%8C%E5%AE%A4)
