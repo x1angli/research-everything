@@ -122,3 +122,9 @@ Out of Core Dataframes for Python and Fast Visualization
 #### Julius
 * supports both English and Japanese languages only
 * https://github.com/julius-speech/julius
+
+## Computer Vision
+### OCR
+#### Chinese OCR
+A python package for Chinese OCR with the available pre-trained model. So it can be used directly after installed.
+https://github.com/breezedeus/cnocr
