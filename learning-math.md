@@ -43,3 +43,7 @@ A collection of bullet points that can walk git you out of all the frustrating s
 
 It's a full-length college-level academic textbook based based on material from Prof. Kochenderfer's Engineering Design Optimization course at Stanford.This book offers a comprehensive introduction to optimization with a focus on practical algorithms. It is filled with easy-to-understand Julia implementations of all algorithms. 
 * [Website](http://mitpress.mit.edu/books/algorithms-optimization)
+
+# Glossary
+#### Gradient, Jacobian, Hessian, Laplacian and all that
+See [here](https://najeebkhan.github.io/blog/VecCal.html)
