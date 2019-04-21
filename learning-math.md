@@ -11,6 +11,10 @@
 * [Coursera](https://www.coursera.org/learn/linear-algebra-machine-learning)
 * [MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 
+#### Mathmatics (for B-school) 
+It covers topics including linear algebra, optimization, etc.
+* [Eivind Eriksen](https://www.dr-eriksen.no/teaching/GRA6035/2010/)
+
 ## Linear Algebra Books
 
 #### Introduction to Applied Linear: Algebra Vectors, Matrices, and Least Squares 
