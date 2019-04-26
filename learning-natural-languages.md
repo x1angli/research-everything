@@ -20,3 +20,40 @@ Green’s Dictionary of Slang is a great slang dictionary. For the paper book ve
 ### Japanese Online
 There is an interactive webpage for learning Japanese **Hiragana (平仮名，平假名）**, and **Katakana （片仮名，片假名）** 
 http://www.japanese-online.com/page/lessons-basics-characters
+
+
+# Chinese
+### 汉语方言发音词典
+含广韵、闽南话、广州话、潮州话、客家话、上海话、苏州话、围头话、无锡话、普通话
+http://cn.voicedic.com/
+
+#### 各种汉语词典（日语）
+http://gattin.world.coocan.jp/
+
+#### 海词 - 广东话
+http://gdh.dict.cn/
+
+#### 粤语发音字典
+http://www.yueyv.cn/
+
+#### 粤语在线翻译
+http://yueyu.thetuo.com/
+
+#### 海词 - 上海话
+http://shh.dict.cn/
+
+#### 吴音词典
+http://wu-chinese.com/minidict/
+
+#### 潮州音字典
+http://www.czyzd.com/
+
+#### 潮州音字典
+http://www.chaozhouyin.com/
+
+#### 闽南语在线翻译
+http://www.laimn.cn/
+
+#### 台语
+https://itaigi.tw/
+
