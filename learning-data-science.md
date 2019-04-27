@@ -3,7 +3,8 @@
 #### DS100: Principles and Techniques of Data Science
 This is the textbook for Data 100, the Principles and Techniques of Data Science course at UC Berkeley.
 * Official Website: http://www.ds100.org/
-* Tutorial: https://www.textbook.ds100.org/
+* Textbook: https://www.textbook.ds100.org/
+* Textbook's github source repo: https://github.com/DS-100/textbook
 * Jupyter Hub (requires an Calnet ID): https://data100.datahub.berkeley.edu/hub/login
 
 #### Homemade Machine Learning
