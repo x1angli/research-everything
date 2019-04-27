@@ -1,8 +1,10 @@
 # All
 
-#### 算法/深度学习/NLP面试题库
-By HUA Yang @ 哈工大（深圳）
-* Link: https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
+#### DS100: Principles and Techniques of Data Science
+This is the textbook for Data 100, the Principles and Techniques of Data Science course at UC Berkeley.
+* Official Website: http://www.ds100.org/
+* Tutorial: https://www.textbook.ds100.org/
+* Jupyter Hub (requires an Calnet ID): https://data100.datahub.berkeley.edu/hub/login
 
 #### Homemade Machine Learning
 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
@@ -27,6 +29,10 @@ Learn Deep Reinforcement Learning in Depth in 60 days
 
 #### DeepLearning-500-questions / 深度学习500问
 * https://github.com/scutan90/DeepLearning-500-questions
+
+#### 算法/深度学习/NLP面试题库
+By HUA Yang @ 哈工大（深圳）
+* Link: https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
 
 #### Mindmap: Machine Learning Mindmap / Cheatsheet
 A Mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
