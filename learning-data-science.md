@@ -58,6 +58,9 @@ Python Data Science Handbook: full text in Jupyter Notebooks. The book introduce
 ### Numpy 
 **NumPy** is an extension library for Python language, supporting operations of a large number of high-dimensional arrays and matrices. In addition, it also provides a large number of mathematical function libraries for array operations. Machine learning involves a lot of transformations and operations on arrays, which makes NumPy one of the essential tools.
 
+#### A Visual Intro to NumPy and Data Representation
+* Link: https://jalammar.github.io/visual-numpy/
+
 #### 100 NumPy Exercises
 * Link: https://labex.io/lab/403
 
