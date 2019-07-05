@@ -108,6 +108,10 @@ https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
 
 Out of Core Dataframes for Python and Fast Visualization
 
+### NLP
+
+#### The Illustrated Word2vec
+https://jalammar.github.io/illustrated-word2vec/
 
 ### Speech Recognition
 
