@@ -23,6 +23,10 @@ http://www.japanese-online.com/page/lessons-basics-characters
 
 
 # Chinese
+
+### 写作大词海（软件）
+http://www.zhsc.com/zhxz.htm
+
 ### 汉语方言发音词典
 含广韵、闽南话、广州话、潮州话、客家话、上海话、苏州话、围头话、无锡话、普通话
 http://cn.voicedic.com/
