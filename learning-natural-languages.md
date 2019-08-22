@@ -25,6 +25,7 @@ http://www.japanese-online.com/page/lessons-basics-characters
 # Chinese
 
 ### 写作大词海（软件）
+一款帮助大家在写作文时推敲用词的软件
 http://www.zhsc.com/zhxz.htm
 
 ### 汉语方言发音词典
