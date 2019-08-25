@@ -24,6 +24,10 @@ http://www.japanese-online.com/page/lessons-basics-characters
 
 # Chinese
 
+### 汉典
+最综合的字体汉语字典、汉语词典、康熙字典、说文解字、成语词典
+http:zdic.net
+
 ### 写作大词海（软件）
 一款帮助大家在写作文时推敲用词的软件
 http://www.zhsc.com/zhxz.htm
