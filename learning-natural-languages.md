@@ -2,6 +2,10 @@ This is the curated list of learning natural languages:
 
 # English
 
+### Lexico
+DICTIONARY, THESAURUS, GRAMMAR
+https://www.lexico.com/en
+
 ### Onelook
 https://www.onelook.com/
 It's a search engine for words and phrases: If you have a word for which you'd like a definition, we'll quickly shuttle you to the web-based dictionaries that define that word. If you don't know the right word to use, we'll help you find it. 
