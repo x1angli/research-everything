@@ -13,7 +13,7 @@ A math-aware search engine for Mathematics Stack Exchange.
 * [Companion Materials](https://github.com/mml-book/mml-book.github.io)
 
 
-## Linear algebra online courses
+## Math online courses
 * [Coursera](https://www.coursera.org/learn/linear-algebra-machine-learning)
 * [MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 
@@ -21,7 +21,13 @@ A math-aware search engine for Mathematics Stack Exchange.
 It covers topics including linear algebra, optimization, etc.
 * [Eivind Eriksen](https://www.dr-eriksen.no/teaching/GRA6035/2010/)
 
-## Linear Algebra Books
+## Math Books
+
+#### Probability and Statistics
+<sub> by BRUCE E. HANSEN</sub>
+给一年级经济系博士生用的概率和统计教材，从sigma代数讲到了James-Stein shrinkage estimator，非常精彩，而且完全开源，
+* [PDF download](https://www.ssc.wisc.edu/~bhansen/probability/Probability.pdf)
+
 
 #### Introduction to Applied Linear: Algebra Vectors, Matrices, and Least Squares 
 <sub> by Stephen Boyd et al.</sub>
