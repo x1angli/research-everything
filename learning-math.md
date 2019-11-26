@@ -34,6 +34,12 @@ It covers topics including linear algebra, optimization, etc.
 * [Website](https://web.stanford.edu/~boyd/vmls/)
 * [PDF download](https://web.stanford.edu/~boyd/vmls/vmls.pdf)
 
+#### Interactive Linear Algebra
+<sub> by Dan Margalit </sub>
+* [Website](http://textbooks.math.gatech.edu/ila/)
+* [PDF download](https://textbooks.math.gatech.edu/ila/ila.pdf)
+* [Github Repo](https://github.com/QBobWatson/gt-linalg)
+
 #### Linear Algebra and Its Applications
 <sub> by David C Lay, Judi J. McDonald, and Steven R Lay</sub>
 
