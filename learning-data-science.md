@@ -35,6 +35,9 @@ Learn Deep Reinforcement Learning in Depth in 60 days
 By HUA Yang @ 哈工大（深圳）
 * Link: https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
 
+#### Learning Kaggle 
+* Link: https://shahinrostami.com/posts/machine-learning/ml-with-kaggle/getting-started-with-kaggle/
+
 #### Mindmap: Machine Learning Mindmap / Cheatsheet
 A Mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 * Link:https://github.com/dformoso/machine-learning-mindmap
