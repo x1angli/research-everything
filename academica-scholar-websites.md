@@ -8,11 +8,21 @@ It is a desktop client that :
 1. automatically download bibliography cited in an academic paper. 
 2. retrieves and analyzes academic citations. It uses a variety of data sources (incl. Google Scholar and Microsoft Academic Search) to obtain the raw citations, then analyzes these and presents the following metrics: Total number of papers and total number of citations, h-index, g-index, 
 
+
+#### Zotero
+personal research assistant that helps collect, organize, cite, and share research.
+https://www.zotero.org/
+
+
 #### Readcube 自动论文推荐
 https://www.readcube.com/home
 
 #### Mendeley 自动插入引用
 https://www.mendeley.com/
+
+#### Zotero Blib
+Academic bibliography management tool
+https://zbib.org/
 
 #### WordCounter 英文论文单词统计
 http://www.wordcounter.net
