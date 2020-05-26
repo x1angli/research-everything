@@ -31,6 +31,10 @@ http://www.wordcounter.net
 Avoid Paywalls, Request Research
 https://openaccessbutton.org/
 
+#### Scopus Preview
+Elsevier's Scopus, the largest abstract and citation database of peer-reviewed literature. 
+https://www.scopus.com/
+
 ## 目录与导航
 
 #### 学术期刊影响因子及分类分区目录
