@@ -4,6 +4,15 @@ A math-aware search engine for Mathematics Stack Exchange.
 数学公式方面相似性的搜索引擎，用户键入包含一个或多个关键词即可查询相对应的数学表达式，并且能搜索出来相对应的类似试题案例
 * [Website](https://approach0.xyz)
 
+#### SageMath 
+the free, open-source competitor to Maple, Mathematica, Magma, and Matlab.
+It builds on top of many existing open-source packages: NumPy, SciPy, matplotlib, Sympy, Maxima, GAP, FLINT, R and many more. 
+https://www.sagemath.org/
+
+#### CoCalc
+
+https://cocalc.com/
+
 ## Machine Learning Related 
 
 #### Mathematics for Machine Learning
