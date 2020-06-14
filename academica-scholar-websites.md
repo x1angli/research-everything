@@ -91,6 +91,14 @@ http://www.thaiscience.info/
 
 
 ## 国内
+#### 知网研学
+各类文献资源统一管理，云端存储；记笔记；自动生成参考文献
+https://x.cnki.net/search
+
+#### 知网繁体版
+所有论文都可以下载pdf版，从此告别caj
+http://new.big5.oversea.cnki.net/index/
+
 #### 国家哲学社会科学文献中心
 http://www.ncpssd.org/index.aspx
 超过7000种外文期刊，中文期刊1000多种，
