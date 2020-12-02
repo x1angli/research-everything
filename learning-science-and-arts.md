@@ -15,3 +15,9 @@ AnthemScore is a program that automatically creates sheet music from audio (MP3,
 ## Physics
 #### The Feymman lectures on physics
 http://www.feynmanlectures.caltech.edu/
+
+## Technology
+#### ShareTechnote
+http://www.sharetechnote.com/
+Math, SolidWorks, Mechanical Engineering, Telecom Standards and protocols, IoT, Arduino/Raspberry, Matlab, Python,  C,C++, IP/Network
+
