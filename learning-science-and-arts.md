@@ -21,3 +21,7 @@ http://www.feynmanlectures.caltech.edu/
 http://www.sharetechnote.com/
 Math, SolidWorks, Mechanical Engineering, Telecom Standards and protocols, IoT, Arduino/Raspberry, Matlab, Python,  C,C++, IP/Network
 
+#### INTRO: WEB GIS WITH OPENSAUCE STACK
+https://github.com/jeafreezy/WebGIS-with-Opensauce
+https://jeafreezy.hashnode.dev/intro-web-gis-with-opensauce-stack-cki8i1yyt026fhps1f79pd8z9
+blog series on WebGIS using open source tools and technologies with the Free and Open Source Software for Geospatial Applications(FOSS4G) Stack. 
