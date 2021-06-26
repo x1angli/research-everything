@@ -22,6 +22,14 @@ https://www.collinsdictionary.com/
 #### MacMillan
 https://www.macmillandictionary.com/
 
+#### glosbe
+https://glosbe.com/
+https://en.glosbe.com/
+
+#### linguee
+https://www.linguee.com/
+https://play.google.com/store/apps/details?id=com.linguee.linguee
+
 #### The Free Dictionary
 http://www.thefreedictionary.com/
 
@@ -55,6 +63,10 @@ https://www.theidioms.com/
 #### 英文快典（软件）
 输入一个网址URL，软件会抓取网页中的文本，提取并导出文本中的生词，使得阅读前先学习生词，阅读时就不用查词典
 http://www.en7788.com/era/
+
+### English Corpus
+#### english-corpora
+https://www.english-corpora.org/
 
 # Japanese
 
