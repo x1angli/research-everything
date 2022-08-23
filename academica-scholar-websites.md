@@ -118,3 +118,14 @@ http://www.ixueshu.com/
 
 #### 中国科技期刊开放获取平台(China Open Access Journals, COAJ)
 http://www.oaj.cas.cn/
+
+## 镜像
+#### Google Scholar + Sci-hub
+http://scholar.scqylaw.com/
+
+#### Google Scholar
+https://so.hiqq.com.cn/
+
+#### Sci-hub
+https://sci-hub.41610.org/
+
