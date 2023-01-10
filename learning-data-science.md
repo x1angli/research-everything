@@ -7,6 +7,9 @@ This is the textbook for Data 100, the Principles and Techniques of Data Science
 * Textbook's github source repo: https://github.com/DS-100/textbook
 * Jupyter Hub (requires an Calnet ID): https://data100.datahub.berkeley.edu/hub/login
 
+#### Learn PyTorch for deep learning in a day. Literally.
+* Link: https://www.youtube.com/watch?v=Z_ikDlimN6A
+
 #### Homemade Machine Learning
 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 * Link: https://github.com/trekhleb/homemade-machine-learning
