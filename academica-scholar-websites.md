@@ -27,9 +27,7 @@ https://zbib.org/
 #### WordCounter 英文论文单词统计
 http://www.wordcounter.net
 
-#### Open Access Button
-Avoid Paywalls, Request Research
-https://openaccessbutton.org/
+
 
 #### Scopus Preview
 Elsevier's Scopus, the largest abstract and citation database of peer-reviewed literature. 
@@ -125,6 +123,17 @@ http://scholar.scqylaw.com/
 
 #### Google Scholar
 https://so.hiqq.com.cn/
+
+## Remove Paywall
+#### Bypass Paywall (Chrome Plugin)
+https://github.com/iamadamdev/bypass-paywalls-chrome
+
+#### Open Access Button
+Avoid Paywalls, Request Research
+https://openaccessbutton.org/
+
+#### 12ft.io
+https://12ft.io/
 
 #### Sci-hub
 https://sci-hub.41610.org/
