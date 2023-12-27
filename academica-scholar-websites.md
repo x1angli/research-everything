@@ -27,7 +27,9 @@ https://zbib.org/
 #### WordCounter 英文论文单词统计
 http://www.wordcounter.net
 
-
+#### paperpal 
+AI Academic writing tool , Languange Suggestions, AI copilot
+https://paperpal.com/
 
 #### Scopus Preview
 Elsevier's Scopus, the largest abstract and citation database of peer-reviewed literature. 
